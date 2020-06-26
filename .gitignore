@@ -1,2 +1,11 @@
-
-DiveIntoDeepLearning/03-深度学习基础/.ipynb_checkpoints/02-线性回归的从零开始实现-checkpoint.ipynb
+*checkpoint.ipynb
+.ipynb_checkpoints
+*.csv
+*.iml
+*.xml
+*.json
+*.tfevents
+*.tsv
+*.h5
+*.zip
+*.pyc
