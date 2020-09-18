@@ -17,3 +17,5 @@
 02-PyTorchTutorial/mnist/MNIST/raw/train-images-idx3-ubyte
 02-PyTorchTutorial/mnist/MNIST/raw/train-labels-idx1-ubyte
 *.txt
+*.jpg
+*.dat
