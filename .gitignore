@@ -23,3 +23,9 @@
 *.ckpt
 *.meta
 *.html
+01-PytorchTutorial/data/cifar-10-batches-py/data_batch_1
+01-PytorchTutorial/data/cifar-10-batches-py/data_batch_2
+01-PytorchTutorial/data/cifar-10-batches-py/data_batch_3
+01-PytorchTutorial/data/cifar-10-batches-py/data_batch_4
+01-PytorchTutorial/data/cifar-10-batches-py/data_batch_5
+01-PytorchTutorial/data/cifar-10-batches-py/test_batch
