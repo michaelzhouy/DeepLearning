@@ -19,3 +19,7 @@
 *.txt
 *.jpg
 *.dat
+*.pth
+*.ckpt
+*.meta
+*.html
