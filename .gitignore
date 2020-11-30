@@ -29,3 +29,6 @@
 01-PytorchTutorial/data/cifar-10-batches-py/data_batch_4
 01-PytorchTutorial/data/cifar-10-batches-py/data_batch_5
 01-PytorchTutorial/data/cifar-10-batches-py/test_batch
+01-PytorchTutorial/data/MNIST/raw/t10k-images-idx3-ubyte
+01-PytorchTutorial/data/MNIST/raw/train-images-idx3-ubyte
+01-PytorchTutorial/data/MNIST/raw/train-labels-idx1-ubyte
