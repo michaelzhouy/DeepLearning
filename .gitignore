@@ -33,3 +33,4 @@
 01-PytorchTutorial/data/MNIST/raw/train-images-idx3-ubyte
 01-PytorchTutorial/data/MNIST/raw/train-labels-idx1-ubyte
 01-PytorchTutorial/data/MNIST/raw/t10k-labels-idx1-ubyte
+*.png
