@@ -35,3 +35,4 @@
 01-PytorchTutorial/data/MNIST/raw/t10k-labels-idx1-ubyte
 *.png
 *.feat
+.DS_Store
